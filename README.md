@@ -9,4 +9,4 @@ pip install -r requirements.txt
 
 ## Usage
 
-See notebooks in `notebooks/` folder.
+See notebooks in `notebooks/` folder. Standalone training script and network intialization in pinn.py, additional analysis and results in notebooks.
