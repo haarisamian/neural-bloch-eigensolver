@@ -1,6 +1,6 @@
 # Neural Bloch Eigensolver
 
-![Project_image](band_structure.png)
+![Project_image](<band structure.png>)
 
 This code accompanies an Master's thesis on physics-informed ML for Bloch eigenproblems in periodic quantum systems. Unsupervised neural networks for wavefunctions and band structures of 2D periodic potentials. Solves the Schrödinger equation for honeycomb lattices without labeled training data.
 
